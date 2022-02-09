@@ -6,3 +6,4 @@ What I enjoy? I love learn new things to help others with their problems.
 Currently studying: TypeScript, NodeJs, ExpressJs, and MySql and MongoDB.
 
 Check my website: https://masd1234.github.io/
+Check my LinkedIn profile: https://www.linkedin.com/in/marco-sanchez-4880041ab/
